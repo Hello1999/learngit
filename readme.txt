@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes;
 add to stage;
 add origin master branch
+readd to origin
