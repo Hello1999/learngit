@@ -6,3 +6,4 @@ add to stage;
 add origin master branch
 readd to origin
 Creating a new branch is quick and simple
+new dev
