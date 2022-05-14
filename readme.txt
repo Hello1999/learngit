@@ -7,3 +7,5 @@ add origin master branch
 readd to origin
 Creating a new branch is quick and simple
 new dev
+dev work ok ok very good this is stash test
+git is a free software
